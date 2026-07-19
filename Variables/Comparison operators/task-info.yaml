@@ -3,7 +3,7 @@ files:
   - name: comparison_operators.py
     visible: true
     placeholders:
-      - offset: 213
+      - offset: 345
         length: 1
         placeholder_text: '?'
         initial_state:
@@ -12,8 +12,8 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: WDXBZttNfAVbbyebeCpJoA==
         selected: false
-        status: Unchecked
-      - offset: 367
+        status: Solved
+      - offset: 499
         length: 1
         placeholder_text: '?'
         initial_state:
@@ -22,8 +22,8 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: 8H1MCk2SdPPp0ZNJUIcSaw==
         selected: false
-        status: Unchecked
-      - offset: 519
+        status: Solved
+      - offset: 651
         length: 1
         placeholder_text: '?'
         initial_state:
@@ -32,8 +32,8 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: 8H1MCk2SdPPp0ZNJUIcSaw==
         selected: false
-        status: Unchecked
-      - offset: 527
+        status: Solved
+      - offset: 659
         length: 1
         placeholder_text: '?'
         initial_state:
@@ -42,8 +42,8 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: WDXBZttNfAVbbyebeCpJoA==
         selected: false
-        status: Unchecked
-      - offset: 708
+        status: Solved
+      - offset: 840
         length: 1
         placeholder_text: '?'
         initial_state:
@@ -52,8 +52,8 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: 7Wv+S0/gr4/qhsKnO1S70Q==
         selected: false
-        status: Unchecked
-      - offset: 859
+        status: Solved
+      - offset: 991
         length: 1
         placeholder_text: '?'
         initial_state:
@@ -62,11 +62,14 @@ files:
         initialized_from_dependency: false
         encrypted_possible_answer: 7fwRgGhI1XP/fa9HQT0KaQ==
         selected: false
-        status: Unchecked
+        status: Solved
     learner_created: false
   - name: tests/test_task.py
     visible: false
     learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER61P1PRIan7KG6yp1GvaweDI7GA/viewform?usp=pp_url&entry.2103429047=Variables+/+Comparison+Operators
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 13 Jul 2026 05:48:56 UTC"
 record: -1
